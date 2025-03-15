@@ -2,6 +2,7 @@
   "name": "react-hw-1",
   "version": "0.1.0",
   "private": false,
+	"homepage": "v0ts.github.io/react-hw-1/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
